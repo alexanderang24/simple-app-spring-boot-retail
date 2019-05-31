@@ -1,0 +1,27 @@
+Definition of Done:
+- Push to gerrit
+- Reviewed by peer
+- Clean code
+- Using springboot 2.1.4
+- Minimal 3 end point API
+- Must implement OOP principles
+- Must implement SOLID principles
+- Must implement calculation process. e.g. api to calculate how much tax must be paid by employee in a year
+- Documentation the flow on Jira
+- Exception Handling
+- Unit Tests
+- @ the sprint review, there will be live coding to ensure what you already built
+
+############################################################################################################
+
+What's important:
+- Clean code
+- Minimal 3 end point API
+- Must implement OOP principles
+- Must implement SOLID principles
+- Must implement calculation process. e.g. api to calculate how much tax must be paid by employee in a year
+- Documentation the flow on Jira
+- Exception Handling
+- Unit Tests
+
+############################################################################################################
